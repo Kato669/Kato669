@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kato james kalemba a still of muni university, arua , pursuing bachelor's degree in information skills
+- 👋 Hi, I’m kato james kalemba a student at muni university, arua , pursuing bachelor's degree in information skills
 - 👀 I’m interested in developing websites and making mobile application using html,css and javascript
 - 🌱 I’m currently learning python and php
 - 💞️ I’m looking to collaborate on different things like hosting websites, writting a report for your project and data security
